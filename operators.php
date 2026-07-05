@@ -32,10 +32,28 @@ echo $a**=$b;
 
 ?>
 <?php
-//Comparison Operator
-$a=5;
-$b=20;
-
-
+// //Comparison Operator
+// $a=5;
+// $b=20;
+// //echo var_dump($a==$b);
+// //echo var_dump($a!=$b);
+// //echo var_dump($a===$b);
+// echo var_dump($a!==$b);
 
 ?>
+<?php
+// Increament/Decrement Operator
+//$a=10;
+// echo ++$a;
+// echo $a++;
+// echo "<br>";
+// echo $a;
+
+//echo --$a;
+// echo "<br>";
+// echo $a--;
+// echo "<br>";
+// echo $a;
+
+?>
+
