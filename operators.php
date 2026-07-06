@@ -33,12 +33,19 @@ echo $a**=$b;
 ?>
 <?php
 // //Comparison Operator
-// $a=5;
-// $b=20;
+$a=5;
+$str="5";
 // //echo var_dump($a==$b);
 // //echo var_dump($a!=$b);
 // //echo var_dump($a===$b);
 // echo var_dump($a!==$b);
+echo var_dump($a);
+echo "<br>";
+echo var_dump($str);
+echo "<br>";
+echo var_dump($a==$str);
+echo "<br>";
+echo var_dump($a===$str);
 
 ?>
 <?php
